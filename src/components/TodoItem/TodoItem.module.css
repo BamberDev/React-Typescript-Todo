@@ -1,0 +1,19 @@
+.item {
+  display: flex;
+  margin: 1rem 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  width: 400px;
+  background-color: #f7f5ef;
+  position: relative;
+}
+
+.itemButton {
+  background-color: transparent;
+  border: none;
+  font: inherit;
+  color: #ebb002;
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+}
